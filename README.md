@@ -4,7 +4,7 @@
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/mirazahmed/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Miraz_Ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mirazahmed/"></a>
-  <a href="mailto:miraz37@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:miraz37@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Miraz_Ahmed-red?style=flat-square&logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/mirazahmed"></a>
 </p>
 
 ### About
