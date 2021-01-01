@@ -47,8 +47,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Miraz Ahmed's GitHub Stats" src="https://github-readme-stats.mirazahmed.vercel.app
-/api?username=mirazahmed&show_icons=true&hide_border=true" />
+  <img align="left" alt="Miraz Ahmed's GitHub Stats" src="https://github-readme-stats.mirazahmed.vercel.app/api?username=mirazahmed&show_icons=true&hide_border=true" />
 
 </details>
 
