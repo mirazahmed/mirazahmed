@@ -12,10 +12,10 @@
 
 -  **Working :**  Web Development :computer: 
 -  **Learning :** Anything that interests me 😃
--  **Hobbies :** Travling ⛰️ | Cycling 🚴‍♂️| 
+-  **Hobbies :** Travling ⛰️ | Cycling 🚴‍♂️
 -  **Ask me about :** Anything!, I'm happy to help and learn :v:
 -  **2021 Goals :** Create more projects, Contribute to open source
--  **Life outside tech :** Calisthenics 💪|Chess ♟️| Biryinai | Cheesecake
+-  **Life outside tech :** Calisthenics 💪| Chess ♟️| Biryinai | Cheesecake
 
 
 
